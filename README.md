@@ -1,18 +1,24 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ibrahim Albayrak
-========================================================================================================================================
+# 🏄‍♂️ Ibrahim Albayrak
 
-Passionate Game Developer
--------------------------
+**`Pasionate Tech Men (Game Developer/Game Designer)`**
 
-I've been a prisoner of my passion for game development for 7 years. We are currently developing games for the vr platform with my team. 
+Hello,
+I am a passionate game developer. I have been developing games professionally for 7 years and have implemented many personal projects. I worked as a freelancer and now I am working as a Co-founder and Lead Game Developer at a company called Limerence.
+
+At Limerence we develop VR Mid Core games. I have been pursuing my passion for game development for many years and I focus on improving myself in every new project. Thanks to both my individual projects and my professional work, I have gained extensive experience in the field of game development.
+
+   <p align="left">
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ibrahimAlbyrk?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+      <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ibrahimAlbyrk?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+   </p>
+
+---
 
 * 🌍  I'm based in Turkey
 * ✉️  You can contact me at [ibrahimalbayrak812@gmail.com](mailto:ibrahimalbayrak812@gmail.com)
 * 🧠  I'm learning Advanced Mirror
 * 🤝  I'm open to collaborating on interesting projects :)
-
-<a href="https://www.github.com/ibrahimAlbyrk" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/ibrahimAlbyrk?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills
 
