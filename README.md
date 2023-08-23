@@ -1,25 +1,18 @@
-# 🏄‍♂️ Ibrahim Albayrak
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ibrahim Albayrak
+========================================================================================================================================
 
-**`Passionate Man (Game Development/Game Designer)`**
+Passionate Game Developer
+-------------------------
 
-Hello,
-I am a passionate game developer. I have been developing games professionally for 7 years and have implemented many personal projects. I worked as a freelancer and now I am working as a Co-founder and Lead Game Developer at a company called Limerence.
-
-At Limerence we develop VR Mid Core games. I have been pursuing my passion for game development for many years and I focus on improving myself in every new project. Thanks to both my individual projects and my professional work, I have gained extensive experience in the field of game development.
-
-   <p align="left">
-      <a href="https://github.com/ibrahimAlbyrk?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ibrahimAlbyrk?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/ibrahimAlbyrk?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ibrahimAlbyrk?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-   </p>
-
----
+I've been a prisoner of my passion for game development for 7 years. We are currently developing games for the vr platform with my team. 
 
 * 🌍  I'm based in Turkey
 * ✉️  You can contact me at [ibrahimalbayrak812@gmail.com](mailto:ibrahimalbayrak812@gmail.com)
 * 🧠  I'm learning Advanced Mirror
 * 🤝  I'm open to collaborating on interesting projects :)
+
+<a href="https://www.github.com/ibrahimAlbyrk" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/ibrahimAlbyrk?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills
 
@@ -34,13 +27,9 @@ At Limerence we develop VR Mid Core games. I have been pursuing my passion for g
 <a href="https://www.youtube.com/c/ibrahimalbayrak9186" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ibrahimalbayrak9186" height="30" width="40" /></a>
 </p>
 
-### Badges
-
-<b>My GitHub Stats</b>
+### Stats
 
 <a href="http://www.github.com/ibrahimAlbyrk"><img src="https://github-readme-stats.vercel.app/api?username=ibrahimAlbyrk&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="ibrahimAlbyrk's GitHub stats" /></a>
-
-<a href="http://www.github.com/ibrahimAlbyrk"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ibrahimAlbyrk&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 ### Support Me
 
