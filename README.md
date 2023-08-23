@@ -1,6 +1,6 @@
-# 🏄‍♂️ Ibrahim Albayrak
+# 💻 Ibrahim Albayrak
 
-**`Pasionate Tech Men (Game Developer/Game Designer)`**
+**`Passionate Tech Men (Game Developer/Game Designer)`**
 
 Hello,
 I am a passionate game developer. I have been developing games professionally for 7 years and have implemented many personal projects. I worked as a freelancer and now I am working as a Co-founder and Lead Game Developer at a company called Limerence.
