@@ -31,7 +31,7 @@ At Limerence we develop VR Mid Core games. I have been pursuing my passion for g
 
 <p align="left">
 <a href="https://linkedin.com/in/ibrahim-albayrak-8aaa7317b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ibrahim-albayrak-8aaa7317b" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ibrahimalbayrak9186" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ibrahimalbayrak9186" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCY41DjQCehw67NQwsZuEXqg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ibrahimalbayrak9186" height="30" width="40" /></a>
 </p>
 
 ### Stats
