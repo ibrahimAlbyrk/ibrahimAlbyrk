@@ -8,8 +8,9 @@ I am a passionate game developer. I have been developing games professionally fo
 At Limerence we develop VR Mid Core games. I have been pursuing my passion for game development for many years and I focus on improving myself in every new project. Thanks to both my individual projects and my professional work, I have gained extensive experience in the field of game development.
 
    <p align="left">
+      <a href="https://github.com/ibrahimAlbyrk?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ibrahimAlbyrk?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
+      <a href="https://github.com/ibrahimAlbyrk?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ibrahimAlbyrk?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
 
