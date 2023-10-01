@@ -5,7 +5,7 @@
 Hello,
 I am a passionate game developer. I have been developing games professionally for 7 years and have implemented many personal projects. I worked as a freelancer and now I am working as a Co-founder and Lead Game Developer at a company called White Room.
 
-At Limerence we develop VR Mid Core games. I have been pursuing my passion for game development for many years and I focus on improving myself in every new project. Thanks to both my individual projects and my professional work, I have gained extensive experience in the field of game development.
+At White Room we develop VR Mid Core games. I have been pursuing my passion for game development for many years and I focus on improving myself in every new project. Thanks to both my individual projects and my professional work, I have gained extensive experience in the field of game development.
 
    <p align="left">
       <a href="https://github.com/ibrahimAlbyrk?tab=followers">
