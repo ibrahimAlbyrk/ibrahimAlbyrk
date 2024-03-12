@@ -37,11 +37,3 @@ At White Room we develop VR Mid Core games. I have been pursuing my passion for 
 ### Stats
 
 <a href="http://www.github.com/ibrahimAlbyrk"><img src="https://github-readme-stats.vercel.app/api?username=ibrahimAlbyrk&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="ibrahimAlbyrk's GitHub stats" /></a>
-
-### Support Me
-
-<ul style="list-style-type: none; margin: 0;">
-
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/ycsrlxaz6l"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
-
-</ul>
