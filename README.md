@@ -1,6 +1,6 @@
 # 💻 Ibrahim Albayrak
 
-**`Passionate Tech Men (Game Developer/Game Designer)`**
+**`Passionate Tech Man (Game Developer/Game Designer)`**
 
 Hello,
 I am a passionate game developer. I have been developing games professionally for 7 years and have implemented many personal projects. I worked as a freelancer and I work with my team called White Room.
