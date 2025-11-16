@@ -1,39 +1,193 @@
-# 💻 Ibrahim Albayrak
+<!-- HEADER -->
+<h1 align="center">👋 Hey, I'm <strong>Ibrahim Albayrak</strong></h1>
 
-**`Passionate Tech Man (Game Developer/Game Designer)`**
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2500&center=true&vCenter=true&width=650&lines=Game+Developer+%7C+AI+Systems+%26+Automation;Building+agents%2C+pipelines+and+tools;Designing+modular+and+scalable+architectures;Always+learning%2C+always+shipping+🚀" />
+</p>
 
-Hello,
-I am a passionate game developer. I have been developing games professionally for 8 years and have implemented many personal projects. I worked as a freelancer and I work with my team called White Room.
-
-At White Room we develop VR Mid Core games. I have been pursuing my passion for game development for many years and I focus on improving myself in every new project. Thanks to both my individual projects and my professional work, I have gained extensive experience in the field of game development.
-
-   <p align="left">
-      <a href="https://github.com/ibrahimAlbyrk?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ibrahimAlbyrk?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/ibrahimAlbyrk?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ibrahimAlbyrk?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-   </p>
+<p align="center">
+  💻 <strong>Game Developer</strong> • 🧠 <strong>AI Systems & Automation</strong> • ⚙️ <strong>Architecture Enthusiast</strong><br/>
+  <em>From gameplay to AI-driven automation, I love turning ideas into working systems.</em>
+</p>
 
 ---
 
-* 🌍  I'm based in Turkey
-* ✉️  You can contact me at [ibrahimalbayrak812@gmail.com](mailto:ibrahimalbayrak812@gmail.com)
-* 🧠  I'm learning Advanced Mirror
-* 🤝  I'm open to collaborating on interesting projects :)
+## 🧭 About Me
 
-### Skills
+- 🌍 Based in **Turkey**
+- 🕹️ 8+ years of **game development** experience (mainly Unity & C#)
+- 🤖 Currently focused on:
+  - **AI architecture & tooling**
+  - **Automation systems** (pipelines, agents, event-driven flows)
+- 🤝 Open to collaborating on **AI tools, automation backends, and game-related systems**
 
+---
 
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+## 🚀 What I'm Doing Right Now
 
+- 🧠 Designing **AI-assisted development workflows** (Claude Code, LLM-in-the-loop)
+- ⚙️ Building **event-driven Python backends** for integrations & automation
+- 🧱 Experimenting with **clean, modular architecture** (domain + services + engines)
 
-### Socials
+---
+
+## 📚 Things I'm Into Lately
+
+- Hexagonal / clean-ish architecture in small services
+- Event-driven patterns for integrations
+- AI-assisted workflows (coding, refactoring, documentation)
+- Tooling that makes developers faster, not just fancier
+
+---
+
+## 🗺️ Roadmap / Now
+
+- [ ] Release first version of **Backbrain** that completely automated project development system 
+- [ ] Expand AI-assisted workflows for refactoring & documentation
+- [ ] Create a shared architecture template for small AI-driven services
+- [ ] Publish articles about modular system design & automation patterns
+- [ ] Release a more polished version of **AgentMate**
+
+---
+
+<!-- STACK -->
+## 🛠️ Tech Stack
+
+### 🎮 Game & Interactive Systems
 
 <p align="left">
-<a href="https://linkedin.com/in/ibrahim-albayrak-8aaa7317b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ibrahim-albayrak-8aaa7317b" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCY41DjQCehw67NQwsZuEXqg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ibrahimalbayrak9186" height="30" width="40" /></a>
+  <img src="https://skillicons.dev/icons?i=unity,cs" />
 </p>
 
-### Stats
+- Unity (2D / 3D)
+- C# gameplay systems
+- Architecture-driven game code (SOLID, composition-first)
 
-<a href="http://www.github.com/ibrahimAlbyrk"><img src="https://github-readme-stats.vercel.app/api?username=ibrahimAlbyrk&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="ibrahimAlbyrk's GitHub stats" /></a>
+### 🤖 AI, Backend & Automation
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,django,sqlite,postgres,redis" />
+</p>
+
+- **Python** (asyncio, type hints, clean modules)
+- REST APIs & microservices
+- Background workers, schedulers, task queues
+- Message/event-based patterns
+
+### 🧩 AI & LLM Tooling
+
+- Working with **AI coding assistants** (e.g. Claude Code style flows)
+- Prompt design & scaffolding for:
+  - Classification
+  - Summarization
+  - Orchestration of multi-step tasks
+- Building systems where:
+  - **Code + AI + automation** work together
+
+### ⚙️ DevOps & Tooling
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,linux,docker,vscode,pycharm,rider" />
+</p>
+
+- Git / GitHub workflows
+- Dockerized services
+- Local dev environments & scripts
+- CI-friendly structures
+
+---
+
+<!-- ARCHITECTURE MINDSET -->
+## 🧱 How I Think About Systems
+
+I care a lot about **architecture**. A few principles I try to apply:
+
+- 🔹 **Modularity first** – small, focused components over god classes
+- 🔹 **Clear boundaries** – separate:
+  - domain logic  
+  - infrastructure  
+  - integration layers  
+- 🔹 **Config over hardcode** – make systems tunable without rewriting code
+- 🔹 **Async & event-driven where it makes sense**
+- 🔹 **Developer experience** – tools & APIs should be **pleasant** to use
+
+---
+
+<!-- FEATURED PROJECTS -->
+## 📂 Featured Projects
+
+<p align="left">
+  <a href="https://github.com/ibrahimAlbyrk/Reflective-Room-Manager">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ibrahimAlbyrk&repo=Reflective-Room-Manager&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/ibrahimAlbyrk/AgentMate">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ibrahimAlbyrk&repo=AgentMate&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+
+---
+
+<!-- GITHUB STATS -->
+## 📊 GitHub Stats & Activity
+
+<details>
+  <summary><strong>📈 Show GitHub Activity</strong></summary>
+  <br/>
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=ibrahimAlbyrk&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+    <br/><br/>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=ibrahimAlbyrk&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+    <br/><br/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimAlbyrk&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  </div>
+</details>
+
+---
+
+<!-- TROPHIES / ACHIEVEMENTS -->
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ibrahimAlbyrk&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10" />
+</p>
+
+---
+
+<!-- QUOTES / FUN -->
+## 🎲 Dev Quote of the Moment
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+---
+
+## 🔍 If You're Looking For Someone Who Can
+
+- Build **AI-driven automation systems**
+- Design **modular, scalable architectures**
+- Create **event-driven backends** (Python, async)
+- Prototype **developer tools & agents**
+- Structure clean, maintainable **gameplay/tech systems**
+
+> 💡 Then we’ll probably work great together.
+> Reach me out ↓
+
+<!-- CONTACT -->
+## 🌐 Find Me
+
+<p align="left">
+  <a href="mailto:ibrahimalbayrak812@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/ibrahim-albayrak-8aaa7317b" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-ibrahim--albayrak-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.youtube.com/channel/UCY41DjQCehw67NQwsZuEXqg" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-ibrahimalbayrak-critical?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center"> <sub>Thanks for stopping by. If you love <strong>clean code, smart systems, and automation</strong>, we’ll probably get along. 😄</sub> </p>
